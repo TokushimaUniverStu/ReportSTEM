@@ -8,6 +8,6 @@ This is the documentation of my project
 
 Section
 -------
-number:c612401278
 Author:Onishi Hina
+date:2024/11/29
 Here I explain awesome details of my project.
